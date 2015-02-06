@@ -1,7 +1,10 @@
 Parallels Icon Pack
 ===================
 
-Extra OS X dock icons suited for use with _Parallels Desktop for Mac_ VMs.
+Extra OS X dock icons suited for use with
+[Parallels Desktop for Mac](http://www.parallels.com/products/desktop/) VMs.
+
+![Screenshot](screenshot.png)
 
 Build
 -----
