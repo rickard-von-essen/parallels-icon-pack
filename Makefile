@@ -15,6 +15,6 @@ list:
 all: $(ICON_FILES)
 
 %.icns: iconsets/%.iconset
-	iconutil --convert icns --output out/$@ $<
+	iconutil --convert icns --output icns/$@ $<
 
 iconsets/$(ICON_SETS):

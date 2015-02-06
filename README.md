@@ -8,7 +8,7 @@ Extra OS X dock icons suited for use with
 
 Build
 -----
-Icons (.icns) are built to the out/ directory using the iconutil, available
+Icons (.icns) are built to the icns/ directory using the iconutil, available
 from _XCode_.
 
 Build a icon with:
